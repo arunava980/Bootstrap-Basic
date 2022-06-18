@@ -24,16 +24,29 @@ The Practise1 folder consists of Navbar,Pagination,Progress Bar and Table folder
 # Practise2
 The Practise2 folder consists of Alert,Buttons,Form,Modals
 ## Alert
+![image](https://user-images.githubusercontent.com/96670760/174422405-1ab5b60a-f4a1-42f5-860f-edbd1f69b4f6.png)
+
 ## Buttons
+![image](https://user-images.githubusercontent.com/96670760/174422414-7802153e-34ff-40d8-b557-e685a8c6b017.png)
+
 ## Form
+![image](https://user-images.githubusercontent.com/96670760/174422425-4b0ec507-2e78-444c-aff7-3277c95eb813.png)
+
 ## Modals
+![image](https://user-images.githubusercontent.com/96670760/174422442-e867babd-2c83-4234-ad0a-5fe3df3b1c80.png)
 
 # Practise4
 The Practise4 folder consists of Badge,Image,Jumbotron,Well
 ## Badge
+![image](https://user-images.githubusercontent.com/96670760/174422454-29546390-a0a2-4bc7-89de-fe2fa6db5760.png)
+
 ## Image
 ## Jumbotron
+![image](https://user-images.githubusercontent.com/96670760/174422464-972b365b-d9d8-40d4-8e3a-198e10c50270.png)
+
 ## Well
+![image](https://user-images.githubusercontent.com/96670760/174422471-c17a8f30-acda-4f88-8105-289b0b0f9ae0.png)
+
 
 # Practise5
 The Practise5 folder consists of Container and rows
