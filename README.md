@@ -9,9 +9,17 @@ In layout folder , it contains a Layout page which comprises of forms, input ele
 # Practise1
 The Practise1 folder consists of Navbar,Pagination,Progress Bar and Table folders
 ## Navbar
+![image](https://user-images.githubusercontent.com/96670760/174422322-d94e5c18-044c-4432-93c1-af4aecb63327.png)
+
 ## Pagination
+![image](https://user-images.githubusercontent.com/96670760/174422331-c3923a08-a481-40cd-8e1a-3129c58ed64b.png)
+
 ## Progress Bar
+![image](https://user-images.githubusercontent.com/96670760/174422341-c1e74d9c-7b1d-40eb-98e5-d62b669ae78b.png)
+
 ## Table
+![image](https://user-images.githubusercontent.com/96670760/174422357-1062bbfe-b93f-4027-820c-c1d339edb298.png)
+
 
 # Practise2
 The Practise2 folder consists of Alert,Buttons,Form,Modals
